@@ -19,7 +19,7 @@ bladsy, een in 'n HTTP-antwoordkoptekst, en een in 'n JSON-antwoordliggaam.
 - **Follow TCP Stream** (regs-klik op 'n pakkie -> Follow -> TCP Stream)
 - **Statistics -> Conversations** om die verkeer te kaarteer
 - Vertoonfilters soos `http`, `http.request.method == "POST", 
-- Base64-ontkoppeling, bv. `printf '%s' 'VALUE' | base64 -d`
+- Base64-decoding > base64decode.org
 
 ## Hoe om te ondersoek
 
